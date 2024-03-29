@@ -1,0 +1,28 @@
+***********************************************
+***********************************************
+{
+    Hi,
+    I'm Adnan Sami 
+    I work with MERN stuck -
+    if you want to hire me text me on instagram 
+}
+***********************************************
+***********************************************
+
+
+What you need to do --
+    1: Go to formspree.io 
+    2: Create a new account 
+    3: Now create a from 
+    4: Copy the link 
+    5: Paste the link on form action fields
+    6: Save it and run 
+
+***********************************************
+***********************************************
+If you want to know from scratch -
+    1: Visit formspree.io and read their documentation
+---Thats it---
+***********************************************
+***********************************************
+
